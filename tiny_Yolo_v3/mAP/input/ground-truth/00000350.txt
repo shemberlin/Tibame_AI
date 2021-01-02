@@ -1,0 +1,3 @@
+clownfish1 877 551 1279 784
+clownfish2 31 450 413 657
+clownfish3 1236 332 1604 618

@@ -1,0 +1,3 @@
+clownfish1 938 559 1355 753
+clownfish2 33 420 400 611
+clownfish3 426 427 607 674

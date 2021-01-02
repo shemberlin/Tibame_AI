@@ -1,0 +1,3 @@
+clownfish1 870 551 1286 777
+clownfish2 60 457 419 664
+clownfish3 1340 355 1656 639
