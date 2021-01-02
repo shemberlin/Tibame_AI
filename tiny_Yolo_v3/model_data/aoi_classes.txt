@@ -1,0 +1,6 @@
+WBC
+Platelets
+RBC
+pitted_surface
+rolled-in_scale
+scratches

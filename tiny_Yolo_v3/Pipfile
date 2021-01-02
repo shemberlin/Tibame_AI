@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow ="==1.15.2"
+keras ="==2.3.1"
+pillow = "*"
+matplotlib = "*"
+jupyter = "*"
+opencv-python ="==3.4.3.18"
+h5py="==2.10.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
+
+
