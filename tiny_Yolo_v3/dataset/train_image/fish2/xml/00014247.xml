@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10min fish</folder>
+	<filename>10min_480x270_0-602.mp4</filename>
+	<path>E:\10min fish\10min_480x270_0-602.mp4</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>149</ymin>
+			<xmax>215</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
