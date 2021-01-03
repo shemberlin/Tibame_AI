@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>10min_480x270_0-607.mp4</filename>
+	<path>I:\download\10min_480x270_0-607.mp4</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>140</ymin>
+			<xmax>354</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
